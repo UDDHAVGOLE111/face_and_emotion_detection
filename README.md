@@ -29,7 +29,7 @@ If you are having trouble with installation, you can also try out a [pre-configu
 
 
 
-## Usage:
+## Usage::
 
 ### Complete pipeline for Face Detection, Face Recognition and Emotion Detection
 Refer to the notebook /src/facial_detection_recog_emotion.ipynb
